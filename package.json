@@ -1,0 +1,16 @@
+{
+  "name": "ts-transform-decorator-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2"
+  }
+}
